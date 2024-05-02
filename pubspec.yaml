@@ -1,4 +1,4 @@
-name: todo_list_mobx
+name: todo_list_mobx_stream
 description: "A new Flutter project."
 
 publish_to: 'none' 

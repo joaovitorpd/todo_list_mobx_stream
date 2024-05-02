@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
-import 'package:todo_list_mobx/pages/home/models/item_model.dart';
+import 'package:todo_list_mobx_stream/pages/home/models/item_model.dart';
 
 class ItemWidget extends StatelessWidget {
   const ItemWidget(

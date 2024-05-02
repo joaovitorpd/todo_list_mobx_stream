@@ -2,7 +2,7 @@
 
 import 'package:mobx/mobx.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:todo_list_mobx/pages/home/models/item_model.dart';
+import 'package:todo_list_mobx_stream/pages/home/models/item_model.dart';
 part 'home_controller.g.dart';
 
 class HomeController = _HomeControllerBase with _$HomeController;

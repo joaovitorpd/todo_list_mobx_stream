@@ -1,4 +1,4 @@
-# todo_list_mobx
+# todo_list_mobx_stream
 
 A new Flutter project.
 

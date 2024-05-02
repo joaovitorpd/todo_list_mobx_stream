@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
-import 'package:todo_list_mobx/pages/home/components/item_widget.dart';
-import 'package:todo_list_mobx/pages/home/home_controller.dart';
-import 'package:todo_list_mobx/pages/home/models/item_model.dart';
+import 'package:todo_list_mobx_stream/pages/home/components/item_widget.dart';
+import 'package:todo_list_mobx_stream/pages/home/home_controller.dart';
+import 'package:todo_list_mobx_stream/pages/home/models/item_model.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

@@ -1,6 +1,6 @@
 {
-    "name": "todo_list_mobx",
-    "short_name": "todo_list_mobx",
+    "name": "todo_list_mobx_stream",
+    "short_name": "todo_list_mobx_stream",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
