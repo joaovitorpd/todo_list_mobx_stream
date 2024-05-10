@@ -35,6 +35,7 @@ abstract class _HomeControllerBase with Store {
 
   @action
   addItem(ItemModel model) {
+    //The line below will guarantee that this "list" will be a new "List<ItemModel>"
     var list = List<ItemModel>.from(listItems.value);
     list.add(model);
     listItems.add(list);
